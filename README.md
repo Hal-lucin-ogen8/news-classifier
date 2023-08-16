@@ -22,7 +22,7 @@ Any flagged predictions may get stored in the flagged subfolder which is formed 
 5. Take care not to leave the process running after closing the Gradio app.
 ## Steps to get missing files
 https://drive.google.com/drive/folders/1j3wEYFqKvq9Wp4535byjXajp4OEfv245?usp=sharing
-Access the above link to download train.csv and the folder containing the model
+\Access the above link to download train.csv and the folder containing the model
 
 ### Author
 Arnav Garg\
